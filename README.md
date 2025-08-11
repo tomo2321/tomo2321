@@ -21,6 +21,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/tomo2321/tomo2321/output/github-contribution-grid-snake.svg" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tomo2321&theme=gruvbox" />
   <div>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tomo2321&theme=gruvbox" />
